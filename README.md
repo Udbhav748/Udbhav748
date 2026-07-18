@@ -60,6 +60,12 @@ I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications tha
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Udbhav748&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
+### 📈 Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Udbhav748/Udbhav748/main/metrics.svg" alt="Metrics Dashboard" />
+</p>
+
 ### 🐍 Contribution Snake
 
 <p align="center">
