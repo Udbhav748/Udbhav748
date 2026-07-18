@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Engineer;Building+Intelligent+Applications" alt="Typing SVG" />
+</p>
+
 ### Hi, I'm Udbhav 👋
 
 I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications that combine machine learning/deep learning models with modern web technologies.
@@ -8,13 +12,9 @@ I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications tha
 
 ### 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,tensorflow,pytorch,fastapi,react,git" alt="Skill icons" />
+</p>
 
 ### 📌 Pinned Projects
 
@@ -44,6 +44,16 @@ I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications tha
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=dark&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=default&hide_border=true" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Udbhav748/Udbhav748/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Udbhav748/Udbhav748/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Udbhav748/Udbhav748/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
