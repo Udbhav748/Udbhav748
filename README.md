@@ -16,36 +16,13 @@ I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications tha
   <img src="https://skillicons.dev/icons?i=python,js,tensorflow,pytorch,fastapi,react,git" alt="Skill icons" />
 </p>
 
-### 📌 Pinned Projects
+### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Udbhav748&repo=Plant-Disease-Detection-using-DEEP-LEARNING&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Udbhav748/InsightAI-RAG-Project-">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Udbhav748&repo=InsightAI-RAG-Project-&theme=dark&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Udbhav748/FWC_HACKATHON_AI_HR_MODULE">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Udbhav748&repo=FWC_HACKATHON_AI_HR_MODULE&theme=dark&hide_border=true" />
-  </a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Udbhav748&show_icons=true&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Udbhav748&show_icons=true&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udbhav748&show_icons=true&theme=default&hide_border=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=default&hide_border=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=default&hide_border=true" />
-  </picture>
-</p>
+| Project | Description | Tech Stack | ⭐ |
+|---|---|---|---|
+| [**LeafSense — Plant Disease Detection**](https://github.com/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING) | Hybrid CNN-Transformer model (CBAM-attention EfficientNetB0 + custom ViT) for leaf disease classification, 98.95% test accuracy | Python · TensorFlow · PyTorch · React · FastAPI | ![Stars](https://img.shields.io/github/stars/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING?style=flat&label=) |
+| [**InsightAI — Document Intelligence Platform**](https://github.com/Udbhav748/InsightAI-RAG-Project-) | AI-powered RAG platform — upload PDFs, ask questions in natural language, get context-aware answers | React · FastAPI · LangChain · FAISS · Gemini | ![Stars](https://img.shields.io/github/stars/Udbhav748/InsightAI-RAG-Project-?style=flat&label=) |
+| [**FWC Hackathon — AI HR Module**](https://github.com/Udbhav748/FWC_HACKATHON_AI_HR_MODULE) | AI-assisted HR module built during a hackathon | JavaScript | ![Stars](https://img.shields.io/github/stars/Udbhav748/FWC_HACKATHON_AI_HR_MODULE?style=flat&label=) |
 
 ### 🐍 Contribution Snake
 
