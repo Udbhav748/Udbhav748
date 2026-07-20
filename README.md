@@ -10,9 +10,11 @@
 
 I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications that combine machine learning/deep learning models with modern web technologies.
 
-- 🔭 Currently working on AI/ML projects and full-stack applications
+- 🔭 Currently building **LeafSense** and **InsightAI** — deep learning + RAG systems shipped end-to-end
 - 🌱 Constantly learning and exploring new tools in the AI/ML and web dev space
+- 🎯 Focused on hybrid CNN-Transformer architectures and production-grade RAG pipelines
 - 💬 Ask me about Python, deep learning, or building full-stack apps
+- ⚡ Fun fact: I'd rather debug a model's attention weights than its CSS
 
 <br>
 
@@ -40,13 +42,26 @@ I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications tha
 
 <br>
 
+### 📊 Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udbhav748&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Udbhav748&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+</p>
+
+<br>
+
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | ⭐ |
-|---|---|---|---|
-| [**LeafSense — Plant Disease Detection**](https://github.com/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING) | Hybrid CNN-Transformer model (CBAM-attention EfficientNetB0 + custom ViT) for leaf disease classification, 98.95% test accuracy | Python · TensorFlow · PyTorch · React · FastAPI | ![Stars](https://img.shields.io/github/stars/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING?style=flat&label=) |
-| [**InsightAI — Document Intelligence Platform**](https://github.com/Udbhav748/InsightAI-RAG-Project-) | AI-powered RAG platform — upload PDFs, ask questions in natural language, get context-aware answers | React · FastAPI · LangChain · FAISS · Gemini | ![Stars](https://img.shields.io/github/stars/Udbhav748/InsightAI-RAG-Project-?style=flat&label=) |
-| [**FWC Hackathon — AI HR Module**](https://github.com/Udbhav748/FWC_HACKATHON_AI_HR_MODULE) | AI-assisted HR module built during a hackathon | JavaScript | ![Stars](https://img.shields.io/github/stars/Udbhav748/FWC_HACKATHON_AI_HR_MODULE?style=flat&label=) |
+| Project | Description | Tech Stack | ⭐ | 🍴 |
+|---|---|---|---|---|
+| [**LeafSense — Plant Disease Detection**](https://github.com/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING) | Hybrid CNN-Transformer model (CBAM-attention EfficientNetB0 + custom ViT) for leaf disease classification, **98.95% test accuracy** | Python · TensorFlow · PyTorch · React · FastAPI | ![Stars](https://img.shields.io/github/stars/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING?style=flat&label=) | ![Forks](https://img.shields.io/github/forks/Udbhav748/Plant-Disease-Detection-using-DEEP-LEARNING?style=flat&label=) |
+| [**InsightAI — Document Intelligence Platform**](https://github.com/Udbhav748/InsightAI-RAG-Project-) | AI-powered RAG platform — upload PDFs, ask questions in natural language, get context-aware answers | React · FastAPI · LangChain · FAISS · Gemini | ![Stars](https://img.shields.io/github/stars/Udbhav748/InsightAI-RAG-Project-?style=flat&label=) | ![Forks](https://img.shields.io/github/forks/Udbhav748/InsightAI-RAG-Project-?style=flat&label=) |
+| [**FWC Hackathon — AI HR Module**](https://github.com/Udbhav748/FWC_HACKATHON_AI_HR_MODULE) | AI-assisted HR module built during a hackathon | JavaScript | ![Stars](https://img.shields.io/github/stars/Udbhav748/FWC_HACKATHON_AI_HR_MODULE?style=flat&label=) | ![Forks](https://img.shields.io/github/forks/Udbhav748/FWC_HACKATHON_AI_HR_MODULE?style=flat&label=) |
 
 <br>
 
