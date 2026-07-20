@@ -45,12 +45,12 @@ I'm a **Full-Stack and AI/ML Developer** — I build end-to-end applications tha
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Udbhav748&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Udbhav748&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Udbhav748&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Udbhav748&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Udbhav748&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <br>
